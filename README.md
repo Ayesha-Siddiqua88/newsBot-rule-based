@@ -5,6 +5,5 @@ Want to create your own NewsBot?<br>
 • Clone the repo<br>
 • Create an account at [NewsAPI](https://newsapi.org/) and generate a API key.<br>
 • Install the dependencies present in requirements.txt file
-
-
-
+ ``` bash
+    pip install -r requirements.txt
